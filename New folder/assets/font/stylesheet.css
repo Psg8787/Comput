@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Cargiona';
+    src: url('Cargiona-Regular.eot');
+    src: local('Cargiona'), local('Cargiona-Regular'),
+        url('Cargiona-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Cargiona-Regular.woff2') format('woff2'),
+        url('Cargiona-Regular.woff') format('woff'),
+        url('Cargiona-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cargiona';
+    src: url('Cargiona-Bold.eot');
+    src: local('Cargiona Bold'), local('Cargiona-Bold'),
+        url('Cargiona-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Cargiona-Bold.woff2') format('woff2'),
+        url('Cargiona-Bold.woff') format('woff'),
+        url('Cargiona-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cargiona Extra';
+    src: url('Cargiona-ExtraBold.eot');
+    src: local('Cargiona Extra Bold'), local('Cargiona-ExtraBold'),
+        url('Cargiona-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Cargiona-ExtraBold.woff2') format('woff2'),
+        url('Cargiona-ExtraBold.woff') format('woff'),
+        url('Cargiona-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cargiona';
+    src: url('Cargiona-Light.eot');
+    src: local('Cargiona Light'), local('Cargiona-Light'),
+        url('Cargiona-Light.eot?#iefix') format('embedded-opentype'),
+        url('Cargiona-Light.woff2') format('woff2'),
+        url('Cargiona-Light.woff') format('woff'),
+        url('Cargiona-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cargiona';
+    src: url('Cargiona-Medium.eot');
+    src: local('Cargiona Medium'), local('Cargiona-Medium'),
+        url('Cargiona-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Cargiona-Medium.woff2') format('woff2'),
+        url('Cargiona-Medium.woff') format('woff'),
+        url('Cargiona-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cargiona Semi';
+    src: url('Cargiona-SemiBold.eot');
+    src: local('Cargiona Semi Bold'), local('Cargiona-SemiBold'),
+        url('Cargiona-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Cargiona-SemiBold.woff2') format('woff2'),
+        url('Cargiona-SemiBold.woff') format('woff'),
+        url('Cargiona-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cargiona';
+    src: url('Cargiona-Black.eot');
+    src: local('Cargiona Black'), local('Cargiona-Black'),
+        url('Cargiona-Black.eot?#iefix') format('embedded-opentype'),
+        url('Cargiona-Black.woff2') format('woff2'),
+        url('Cargiona-Black.woff') format('woff'),
+        url('Cargiona-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
